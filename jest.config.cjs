@@ -12,5 +12,6 @@ module.exports = {
         useESM: true,
       },
     },
+    setupFiles: ["<rootDir>/jest.setup.js"]
 };
   
