@@ -1,3 +1,4 @@
+import React from 'react';
 import {InputContainer, InputWrapper, AddIcon} from './Input.styles';
 import addIcon from '../../assets/add-icon.png';
 import useAddItem from '../../hooks/useAddItem';
