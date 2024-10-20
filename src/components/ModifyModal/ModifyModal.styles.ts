@@ -48,4 +48,5 @@ export const ModalButton = styled.button<{ $btnText: string;}>`
     margin: 10px;
     border: 1px solid black;
     width: 100px;
+    padding: 7px;
 `;
