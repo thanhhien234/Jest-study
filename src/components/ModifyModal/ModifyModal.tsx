@@ -1,3 +1,4 @@
+import React from 'react';
 import { ModalContainer, ModalMain, ModalButton, ModalButtonContainer } from './ModifyModal.styles';
 import { InputContainer, InputWrapper } from '../Input/Input.styles';
 import useModifyItem from '../../hooks/useModifyItem';
